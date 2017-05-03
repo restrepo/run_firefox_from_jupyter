@@ -1,0 +1,29 @@
+1493843543777	geckodriver	INFO	Listening on 127.0.0.1:42942
+1493843732160	geckodriver	INFO	Listening on 127.0.0.1:53434
+1493843733161	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oNcic6h7SyE5
+1493843733162	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493843733165	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39438
+Error: no display specified
+1493843834844	geckodriver	INFO	Listening on 127.0.0.1:37906
+1493843835844	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TdU6ZO5ulcJB
+1493843835846	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493843835850	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56934
+Error: no display specified
+1493846522119	geckodriver	INFO	Listening on 127.0.0.1:50744
+1493846523120	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GfA6CNbTByVx
+1493846523120	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493846523122	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37280
+Xlib:  extension "RANDR" missing on display ":1001".
+1493846587890	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1493846721212	geckodriver	INFO	Listening on 127.0.0.1:38483
+1493846722212	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Sw8TJAevV5cm
+1493846722213	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493846722215	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50556
+Xlib:  extension "RANDR" missing on display ":1001".
+1493846785402	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1493846966623	geckodriver	INFO	Listening on 127.0.0.1:45912
+1493846967642	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.k4lw776Kq4Zk
+1493846967644	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1493846967648	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49775
+Xlib:  extension "RANDR" missing on display ":1005".
+firefox-esr: Fatal IO error 2 (No such file or directory) on X server :1005.
